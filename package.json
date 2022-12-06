@@ -18,6 +18,6 @@
   "homepage": "https://github.com/zhubo816/blogAdmin#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
